@@ -2,6 +2,9 @@ package com.huawei;
 
 import java.util.Scanner;
 
+/**
+ * 输入一个int型的正整数，计算出该int型数据在内存中存储时1的个数
+ */
 public class ReturnTheNumberOf1InBinary {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
